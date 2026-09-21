@@ -281,14 +281,230 @@ My main development workflow includes:
 ### Arrays
 
 * [x] Array Basics
-* [ ] Traversal
-* [ ] Linear Search
-* [ ] Maximum / Minimum
-* [ ] Reverse
-* [ ] Insert / Delete
-* [ ] More Array Problems
+* [x] Traversal
+* [x] Linear Search
+* [x] Maximum / Minimum
+* [x] Reverse
+* [x] Duplicate Check
 
-Progress will be updated as I complete and demonstrate each topic.
+### Searching
+
+* [ ] Binary Search
+* [ ] Search Variations
+* [ ] Searching Problems
+
+### Sorting
+
+* [ ] Bubble Sort
+* [ ] Selection Sort
+* [ ] Insertion Sort
+* [ ] Merge Sort
+* [ ] Quick Sort
+* [ ] Sorting Problems
+
+### Strings
+
+* [ ] String Basics
+* [ ] Traversal
+* [ ] Searching
+* [ ] Manipulation
+* [ ] String Problems
+
+### Linked List
+
+* [ ] Singly Linked List
+* [ ] Insertion
+* [ ] Deletion
+* [ ] Searching
+* [ ] Reversal
+* [ ] Linked List Problems
+
+### Stack
+
+* [ ] Stack Basics
+* [ ] Array Implementation
+* [ ] Linked List Implementation
+* [ ] Stack Problems
+
+### Queue
+
+* [ ] Queue Basics
+* [ ] Array Implementation
+* [ ] Circular Queue
+* [ ] Linked List Implementation
+* [ ] Queue Problems
+
+### Recursion
+
+* [ ] Recursion Basics
+* [ ] Base Case
+* [ ] Recursive Case
+* [ ] Recursion Problems
+* [ ] Backtracking Basics
+
+### Trees
+
+* [ ] Binary Tree Basics
+* [ ] Tree Traversal
+* [ ] Binary Search Tree
+* [ ] BST Operations
+* [ ] Heap
+* [ ] Tree Problems
+
+### Hashing
+
+* [ ] Hashing Basics
+* [ ] Hash Table
+* [ ] Collision Handling
+* [ ] Hashing Problems
+
+### Graphs
+
+* [ ] Graph Basics
+* [ ] BFS
+* [ ] DFS
+* [ ] Graph Representation
+* [ ] Graph Problems
+
+### Algorithms
+
+* [ ] Divide and Conquer
+* [ ] Greedy Algorithms
+* [ ] Dynamic Programming
+* [ ] Algorithm Problems
+
+---
+
+## Phase 2 — Software Engineering
+
+* [ ] Git & GitHub
+* [ ] Linux Fundamentals
+* [ ] Command Line
+* [ ] Networking Fundamentals
+* [ ] HTTP / HTTPS
+* [ ] REST APIs
+* [ ] Databases
+* [ ] SQL
+* [ ] NoSQL
+* [ ] Software Design Principles
+* [ ] Testing
+* [ ] Debugging
+* [ ] Clean Code
+* [ ] System Design Basics
+
+---
+
+## Phase 3 — Full Stack Development
+
+### Frontend
+
+* [ ] HTML
+* [ ] CSS
+* [ ] JavaScript
+* [ ] React
+* [ ] React Projects
+
+### Backend
+
+* [ ] Node.js
+* [ ] Express.js
+* [ ] REST APIs
+* [ ] Authentication
+* [ ] Authorization
+* [ ] Backend Projects
+
+### Databases
+
+* [ ] MongoDB
+* [ ] PostgreSQL
+* [ ] Database Design
+
+### Full Stack Projects
+
+* [ ] Project 1
+* [ ] Project 2
+* [ ] Production-Level Project
+
+---
+
+## Phase 4 — Cloud & DevOps
+
+* [ ] Linux Administration
+* [ ] AWS Fundamentals
+* [ ] EC2
+* [ ] S3
+* [ ] IAM
+* [ ] Lambda
+* [ ] DynamoDB
+* [ ] Docker
+* [ ] CI/CD
+* [ ] GitHub Actions
+* [ ] Kubernetes Basics
+* [ ] Monitoring & Logging
+* [ ] Cloud Deployment Project
+
+---
+
+## Phase 5 — Cybersecurity
+
+* [ ] Cybersecurity Fundamentals
+* [ ] Networking Security
+* [ ] Linux Security
+* [ ] Web Security
+* [ ] Authentication & Authorization
+* [ ] OWASP Top 10
+* [ ] Cryptography Basics
+* [ ] Security Tools
+* [ ] Security Project
+
+---
+
+## Phase 6 — AI / ML
+
+* [ ] Python for AI/ML
+* [ ] NumPy
+* [ ] Pandas
+* [ ] Matplotlib
+* [ ] Statistics
+* [ ] Probability
+* [ ] Machine Learning Fundamentals
+* [ ] Supervised Learning
+* [ ] Unsupervised Learning
+* [ ] Model Evaluation
+* [ ] ML Projects
+
+---
+
+## Phase 7 — LLM / AI Engineering
+
+* [ ] Neural Network Fundamentals
+* [ ] Deep Learning Basics
+* [ ] Transformers
+* [ ] LLM Fundamentals
+* [ ] Prompt Engineering
+* [ ] Embeddings
+* [ ] Vector Databases
+* [ ] RAG
+* [ ] Fine-Tuning Basics
+* [ ] AI Agents
+* [ ] LLM APIs
+* [ ] AI Engineering Projects
+
+---
+
+## 🎯 Engineering Projects
+
+* [ ] DSA Project
+* [ ] Backend Project
+* [ ] Full Stack Project
+* [ ] Cloud Project
+* [ ] AI/ML Project
+* [ ] LLM Project
+* [ ] Major Portfolio Project
+
+---
+
+Progress will be updated only after I **understand, implement, test, review, and demonstrate** each topic.
 
 ---
 
